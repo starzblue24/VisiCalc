@@ -1,0 +1,1 @@
+<empty>, "wow", <empty>, "wow this is a long string", <empty>, <empty>, 105.12, 3.14159265359, <empty>, <empty>, 01/01/1990, 12/25/2014, 
