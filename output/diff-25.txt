@@ -1,0 +1,8 @@
+1c1
+<             |     A      |     B      |     C      |     D      |     E      |     F      |     G      |
+---
+>                    A     |      B     |      C     |      D     |      E     |      F     |      G     |
+25c25
+<             |     A      |     B      |     C      |     D      |     E      |     F      |     G      |
+---
+>                    A     |      B     |      C     |      D     |      E     |      F     |      G     |
